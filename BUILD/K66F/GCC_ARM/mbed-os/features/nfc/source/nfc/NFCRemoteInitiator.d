@@ -1,0 +1,33 @@
+BUILD/K66F/GCC_ARM/mbed-os/features/nfc/source/nfc/NFCRemoteInitiator.o: \
+ /home/emb-lab/ee2405/mbed-os/features/nfc/source/nfc/NFCRemoteInitiator.cpp \
+ BUILD/K66F/GCC_ARM/mbed_config.h \
+ /home/emb-lab/ee2405/mbed-os/features/nfc/nfc/NFCRemoteInitiator.h \
+ /home/emb-lab/ee2405/mbed-os/features/nfc/nfc/NFCDefinitions.h \
+ /home/emb-lab/ee2405/mbed-os/features/nfc/stack/nfc_errors.h \
+ /home/emb-lab/ee2405/mbed-os/features/nfc/acore/acore/ac_buffer.h \
+ /home/emb-lab/ee2405/mbed-os/features/nfc/nfc/NFCRemoteEndpoint.h \
+ /home/emb-lab/ee2405/mbed-os/features/nfc/nfc/NFCNDEFCapable.h \
+ /home/emb-lab/ee2405/mbed-os/platform/Span.h \
+ /home/emb-lab/ee2405/mbed-os/platform/mbed_assert.h \
+ /home/emb-lab/ee2405/mbed-os/platform/mbed_toolchain.h \
+ /home/emb-lab/ee2405/mbed-os/platform/mbed_preprocessor.h \
+ /home/emb-lab/ee2405/mbed-os/features/nfc/stack/ndef/ndef.h \
+ /home/emb-lab/ee2405/mbed-os/features/nfc/stack/nfc_common.h \
+ /home/emb-lab/ee2405/mbed-os/features/nfc/stack/nfc_errors.h \
+ /home/emb-lab/ee2405/mbed-os/features/nfc/stack/platform/nfc_debug.h \
+ /home/emb-lab/ee2405/mbed-os/features/nfc/acore/acore/ac_macros.h \
+ /home/emb-lab/ee2405/mbed-os/features/nfc/acore/acore/ac_buffer_reader.h \
+ /home/emb-lab/ee2405/mbed-os/features/nfc/acore/acore/ac_buffer_builder.h \
+ /home/emb-lab/ee2405/mbed-os/features/nfc/acore/acore/ac_stream.h \
+ /home/emb-lab/ee2405/mbed-os/features/nfc/acore/acore/ac_buffer.h \
+ /home/emb-lab/ee2405/mbed-os/features/nfc/acore/acore/ac_buffer_reader.h \
+ /home/emb-lab/ee2405/mbed-os/features/nfc/acore/acore/ac_buffer_builder.h \
+ /home/emb-lab/ee2405/mbed-os/features/nfc/stack/tech/iso7816/iso7816_app.h \
+ /home/emb-lab/ee2405/mbed-os/features/nfc/stack/tech/iso7816/iso7816.h \
+ /home/emb-lab/ee2405/mbed-os/features/nfc/stack/transceiver/protocols.h \
+ /home/emb-lab/ee2405/mbed-os/features/nfc/stack/tech/isodep/isodep_target.h \
+ /home/emb-lab/ee2405/mbed-os/features/nfc/stack/transceiver/transceiver.h \
+ /home/emb-lab/ee2405/mbed-os/features/nfc/stack/transceiver/protocols.h \
+ /home/emb-lab/ee2405/mbed-os/features/nfc/stack/platform/nfc_transport.h \
+ /home/emb-lab/ee2405/mbed-os/features/nfc/stack/platform/nfc_scheduler.h \
+ /home/emb-lab/ee2405/mbed-os/features/nfc/stack/tech/isodep/isodep.h
